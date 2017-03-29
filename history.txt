@@ -1,0 +1,134 @@
+You chose Bulbasaur
+the computer chose Charmander
+You lose!!
+You chose Charmander
+the computer chose Charmander
+You tied!!
+You chose Charmander
+the computer chose Squirtle
+You lose!!
+You chose Charmander
+the computer chose Squirtle
+You lose!!
+You chose Charmander
+the computer chose Charmander
+You tied!!
+You chose Charmander
+the computer chose Charmander
+You tied!!
+You chose Pikachu
+the computer chose Charmander
+You tied!!
+You chose Mewtwo
+the computer chose Charmander
+You win!!
+You chose Charmander
+the computer chose Squirtle
+You lose!!
+You chose Squirtle
+the computer chose Bulbasaur
+You lose!!
+You chose Squirtle
+the computer chose Bulbasaur
+You lose!!
+You chose Squirtle
+the computer chose Charmander
+You win!!
+Your Squirtle evolved into a Wartortle!
+You chose Wartortle
+the computer chose Charmander
+You win!!
+Your Wartortle evolved into a Blastoise!
+You chose Charizard
+the computer chose Venusaur
+You win!!
+You chose Venusaur
+the computer chose Charizard
+You lose!!
+You chose Charizard
+the computer chose Blastoise
+You lose!!
+You chose Blastoise
+the computer chose Blastoise
+You tied!!
+You chose Venusaur
+the computer chose Charizard
+You lose!!
+You chose Blastoise
+the computer chose Charizard
+You win!!
+You chose Charmander
+the computer chose Charmander
+You tied!!
+You chose Charmander
+the computer chose Charmander
+You tied!!
+You chose Charmander
+the computer chose Squirtle
+You lose!!
+You chose Charmander
+the computer chose Charmander
+You tied!!
+You chose Charmander
+the computer chose Bulbasaur
+You win!!
+Your Charmander evolved into a Charmeleon!
+You chose Charmeleon
+the computer chose Charmeleon
+You tied!!
+You chose Charmeleon
+the computer chose Charmeleon
+You tied!!
+You chose Charmeleon
+the computer chose Charmeleon
+You tied!!
+You chose Charmeleon
+the computer chose Squirtle
+You lose!!
+You chose Charmeleon
+the computer chose Charmeleon
+You tied!!
+You chose Charmeleon
+the computer chose Charmeleon
+You tied!!
+You chose Charmeleon
+the computer chose Squirtle
+You lose!!
+You chose Charmeleon
+the computer chose Bulbasaur
+You win!!
+Your Charmeleon evolved into a Charizard!
+You chose Squirtle
+the computer chose Bulbasaur
+You lose!!
+You chose Pikachu
+the computer chose Charizard
+You tied!!
+You chose Bulbasaur
+the computer chose Squirtle
+You win!!
+Your Bulbasaur evolved into a Ivysaur!
+You chose Ivysaur
+the computer chose Ivysaur
+You tied!!
+You chose Charizard
+the computer chose Charizard
+You tied!!
+You chose Squirtle
+the computer chose Ivysaur
+You lose!!
+You chose Squirtle
+the computer chose Charizard
+You win!!
+Your Squirtle evolved into a Wartortle!
+You chose Ivysaur
+the computer chose Wartortle
+You win!!
+Your Ivysaur evolved into a Venusaur!
+You chose Wartortle
+the computer chose Wartortle
+You tied!!
+You chose Wartortle
+the computer chose Charizard
+You win!!
+Your Wartortle evolved into a Blastoise!
